@@ -2,8 +2,6 @@
     width: 300px;
     height: 300px;
     background-color: #606060;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwAAnf4FyYSCupelm_ObBagSDIOFv7EBXXg&usqp=CAU);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 150px;
-}
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwAAnf4FyYSCupelm_ObBagSDIOFv7EBXXg&usqp=CAU) no-repeat top center;
+    background-color: #6060660;
+    background-size: 200px
