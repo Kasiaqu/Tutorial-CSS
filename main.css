@@ -1,7 +1,8 @@
-.static-width{
-    width: 300px;
-    height: 300px;
+.banner{
+    width: 100%;
+    height: 500px;
     background-color: #606060;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwAAnf4FyYSCupelm_ObBagSDIOFv7EBXXg&usqp=CAU) no-repeat top center;
-    background-color: #6060660;
-    background-size: 200px
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwAAnf4FyYSCupelm_ObBagSDIOFv7EBXXg&usqp=CAU), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74zTRC3H4BRbAIBzAsmY92jlm9fjhcO2uMg&usqp=CAU);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top left;
+    background-size: 300px, 100%;
